@@ -1,0 +1,9 @@
+gedit tt.txt&
+sleep 30&
+bg 2
+exit
+gedit wr.txt&
+jobs
+sig 1 9
+exit
+exit
